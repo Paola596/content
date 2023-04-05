@@ -34,7 +34,7 @@ Cuando se abre el asistente de instalación, dale clic al botón ***next*** un p
 
 
 4. **Línea de comando**.  
-Una vez instañado, abre la línea de comando de Windows. Si tienes algún problema en encontrar la línea de comando, escribe ***CMD*** en la barra de búsqueda de Windows en la esquina inferior izquierda de tu escritorio.  
+Una vez instalado, abre la línea de comando de Windows. Si tienes algún problema en encontrar la línea de comando, escribe ***CMD*** en la barra de búsqueda de Windows en la esquina inferior izquierda de tu escritorio.  
 
 
 5. **Instalar node version 8 o la versión que quieras**.  
